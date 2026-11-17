@@ -1,0 +1,9 @@
+PRESERVAÇÃO DA VERSÃO A12
+
+A atividade A13 determina que a versão anterior seja preservada em outra pasta.
+O ZIP recebido para esta atualização continha somente a pasta aula13; a cópia
+original da A12 não foi fornecida. Por isso, ela não foi inventada, reconstruída
+ou sobrescrita.
+
+Antes da entrega final ao professor, mantenha a pasta original A12 separada da
+pasta A13 e inclua-a no pacote de entrega caso o professor solicite as duas.
